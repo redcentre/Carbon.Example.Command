@@ -3,10 +3,11 @@ using System.Threading.Tasks;
 using RCS.Carbon.Shared;
 using RCS.Carbon.Tables;
 
-namespace Carbon.Demo.Command
+namespace Carbon.Example.Command
 {
 	internal class Program
 	{
+		// This value is for temporary testing only
 		const string TestLicensing = "https://rcsapps.azurewebsites.net/licensing2test/";
 
 		static async Task Main(string[] args)
