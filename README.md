@@ -21,7 +21,7 @@ The `CrossTabEngine` class contains the Carbon API methods related to report gen
 await engine.GetFreeLicence("Example Project");
 ```
 
-Carbon must be provided with licence credentials. This example uses the `GetFreeLicence` method to indicate that an anonymous client is using the *free* licence that is available for evaluation, educational use  or small business use. Customers with an existing Red Centre Software product licence can use the `LoginId` to enter their credentials.
+Carbon must be provided with licence credentials. This example uses the `GetFreeLicence` method to indicate that an anonymous client is using the *free* licence that is available for evaluation, educational use  or small business use. Customers with an existing Red Centre Software product licence can use the `LoginId` method to enter their credentials, which is discussed in other sample projects.
 
 ```
 engine.OpenJob("client1rcs", "demo");
