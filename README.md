@@ -74,9 +74,10 @@ Closes any open and active job. Technically not needed in this simple example, b
 
 > The `GenTab` call line uses the top and side variables "Age" and "Region" respectively, but it would be fair to ask how it's possible to know such variable names exist. For that purpose, Carbon provides the methods `ListVartreeNames` and `GetVartreeAsNodes` to list groups of variables and drill down into their names and relationships. A developer writing a GUI app could use those methods to create a variable selector.
 
-### Avanced Secnarios
+### Avanced Scenarios
 
-> The Carbon API is comprehensive and provides methods for full management of jobs and reports. It is possible to use these methods to create a complete management system over cross-tabulation reports. Other example projects explore these possibilities.
+> The Carbon API is comprehensive and provides methods for full management of jobs and reports. It is possible to use these methods to create a complete management system over cross-tabulation reports. The [Carbon.Example.Desktop][sampwpf] repository contains a moderately sophisticated GUI project that exercises a large part of the Carbon API. Developers can use that project as a starting point for writing their own applications based on Carbon.
 
 [img1]:https://rcsapps.azurewebsites.net/doc/carbon/guide/img/demo-cons-output.png
 [pandas]: https://pandas.pydata.org/
+[sampwpf]: https://github.com/redcentre/Carbon.Example.Desktop
