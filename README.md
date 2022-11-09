@@ -24,7 +24,7 @@ await engine.GetFreeLicence("Example Project");
 Carbon must be provided with licence credentials. This example uses the `GetFreeLicence` method to indicate that an anonymous client is using the *free* licence that is available for evaluation, educational use  or small business use. Customers with an existing Red Centre Software product licence can use the `LoginId` method to enter their credentials, which is discussed in other sample projects.
 
 ```
-engine.OpenJob("client1rcs", "demo");
+engine.OpenJob("rcsruby", "demo");
 ```
 
 Opens a Cloud *job* identified by customer "client1rcs" and job "demo". Carbon normally has one job open and active at any time.
