@@ -68,7 +68,7 @@ Closes any open and active job. Technically not needed in this simple example, b
 
 ### Report Format
 
-> The Carbon engine can produce cross-tabulation reports in a variety of formats. This example specifies the TSV output text format, but alternative text formats include CSV, HTML, JSON and XML. The JSON can returned in the exact shape required by the Python [pandas][pandas] library to create dataframes. Carbon can also directly produce an Excel Workbook.
+> The Carbon engine can produce cross-tabulation reports in a variety of formats. This example specifies the TSV output text format, but alternative text formats include CSV, HTML, JSON and XML. The JSON can be returned in the exact shape required by the Python [pandas][pandas] library to create dataframes. Carbon can also directly produce an Excel Workbook.
 
 ### Variables
 
