@@ -78,6 +78,6 @@ Closes any open and active job. Technically not needed in this simple example, b
 
 > The Carbon API is comprehensive and provides methods for full management of jobs and reports. It is possible to use these methods to create a complete management system over cross-tabulation reports. The [Carbon.Example.Desktop][sampwpf] repository contains a moderately sophisticated GUI project that exercises a large part of the Carbon API. Developers can use that project as a starting point for writing their own applications based on Carbon.
 
-[img1]:https://rcsapps.azurewebsites.net/doc/carbon/guide/img/demo-cons-output.png
+[img1]:https://rcsapps.azurewebsites.net/doc/carbon/articles/img/demo-cons-output.png
 [pandas]: https://pandas.pydata.org/
 [sampwpf]: https://github.com/redcentre/Carbon.Example.Desktop
