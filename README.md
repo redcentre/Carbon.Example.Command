@@ -27,7 +27,7 @@ Carbon must be provided with licence credentials. This example uses the `GetFree
 engine.OpenJob("rcsruby", "demo");
 ```
 
-Opens a Cloud *job* identified by customer "client1rcs" and job "demo". Carbon normally has one job open and active at any time.
+Opens a Cloud *job* identified by customer "rcsruby" and job "demo". Carbon normally has one job open and active at any time.
 
 ```
 var sprops = new XSpecProperties();
