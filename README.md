@@ -64,7 +64,7 @@ Closes any open and active job. Technically not needed in this simple example, b
 
 ### Display Properties
 
-> The `XDisplayProperties` class used in the code contains over 250 properties which control every aspect of the report shape and appearance. All properties are listed in Appendix 5 of the [Carbon Scripting](#) PDF document. The defaults are suitable for most simple usage scenarios.
+> The `XDisplayProperties` class used in the code contains over 250 properties which control every aspect of the report shape and appearance. All properties are listed in Appendix 5 of the [Carbon Scripting][script] PDF document. The defaults are suitable for most simple usage scenarios.
 
 ### Report Format
 
@@ -81,3 +81,4 @@ Closes any open and active job. Technically not needed in this simple example, b
 [img1]:https://rcsapps.azurewebsites.net/doc/carbon/articles/img/demo-cons-output.png
 [pandas]: https://pandas.pydata.org/
 [sampwpf]: https://github.com/redcentre/Carbon.Example.Desktop
+[script]: https://rcsapps.azurewebsites.net/doc/carbon/Carbon%20Scripting.pdf
