@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>1.0.1</Version>
-    <InformationalVersion>2023-04-22 09:00 GMT+10</InformationalVersion>
+    <Version>1.0.2</Version>
+    <InformationalVersion>2023-06-08 12:09 GMT+10</InformationalVersion>
     <TargetFramework>net6.0</TargetFramework>
     <OutputType>Exe</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
@@ -9,6 +9,6 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <PackageReference Include="RCS.Carbon.Tables" Version="8.4.32" />
+    <PackageReference Include="RCS.Carbon.Tables" Version="8.4.33" />
   </ItemGroup>
 </Project>
