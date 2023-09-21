@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>1.0.2</Version>
-    <InformationalVersion>2023-06-08 12:09 GMT+10</InformationalVersion>
+    <Version>1.1.0</Version>
+    <InformationalVersion>2023-09-21 13:12 GMT+10</InformationalVersion>
     <TargetFramework>net6.0</TargetFramework>
     <OutputType>Exe</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
@@ -9,7 +9,7 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <PackageReference Include="RCS.Carbon.Licensing.RedCentre" Version="8.5.32" />
-    <PackageReference Include="RCS.Carbon.Tables" Version="8.5.32" />
+    <PackageReference Include="RCS.Carbon.Licensing.RedCentre" Version="8.6.1" />
+    <PackageReference Include="RCS.Carbon.Tables" Version="8.6.1" />
   </ItemGroup>
 </Project>
