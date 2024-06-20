@@ -1,15 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>8.8.11</Version>
-    <InformationalVersion>2024-06-08 16:30 GMT+10</InformationalVersion>
-    <TargetFramework>net6.0</TargetFramework>
+    <Version>8.8.12</Version>
+    <InformationalVersion>2024-06-20 16:27 GMT+10</InformationalVersion>
+    <TargetFramework>net8.0</TargetFramework>
     <OutputType>Exe</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <Company>Red Centre Software</Company>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <PackageReference Include="RCS.Carbon.Licensing.RedCentre" Version="8.9.20" />
-    <PackageReference Include="RCS.Carbon.Tables" Version="8.9.20" />
+    <PackageReference Include="RCS.Carbon.Licensing.RedCentre" Version="8.9.23" />
+    <PackageReference Include="RCS.Carbon.Tables" Version="8.9.23" />
   </ItemGroup>
 </Project>
