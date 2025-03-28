@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>9.1.15</Version>
-    <InformationalVersion>2025-03-26 16:54 GMT+11</InformationalVersion>
+    <Version>9.1.17</Version>
+    <InformationalVersion>2025-03-28 16:03 GMT+11</InformationalVersion>
     <TargetFramework>net8.0</TargetFramework>
     <OutputType>Exe</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
