@@ -2,6 +2,13 @@
 
 This project contains the simplest possible example of how C# code can use the Carbon library to generate a cross-tabulation report. The next section explains the key lines of code, and is followed by a section that discusses the code in more detail and includes related issues and links.
 
+:star: This example specifically uses the [Red Centre Software][rcs] licensing provider. For more information about licensing providers see the [Carbons.Examples.Licensing.Provider][licprovgit] GitHub page. Two providers are avilable, but the Red Centre one is simpler to use in example code.
+
+:star: Calling the Carbon engine directly by NuGet package references will normally only be done in software that needs the full Carbon engine API. Such cases could include scripts or desktop programs that perform DP management functions as well as reporting, or web services that publicly expose the full Carbon API as endpoints with authentication and authorisation rules.
+
+---
+
+
 ## Code Explanation
 
 ```
@@ -82,3 +89,5 @@ Closes any open and active job. Technically not needed in this simple example, b
 [pandas]: https://pandas.pydata.org/
 [sampwpf]: https://github.com/redcentre/Carbon.Example.Desktop
 [script]: https://rcsapps.azurewebsites.net/doc/carbon/Carbon%20Scripting.pdf
+[rcs]: https://www.redcentresoftware.com/
+[licprovgit]: https://github.com/redcentre/Carbon.Examples.Licensing.Provider
