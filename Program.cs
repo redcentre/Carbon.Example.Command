@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
-using RCS.Carbon.Licensing.RedCentre;
-using RCS.Carbon.Licensing.Shared;
 using RCS.Carbon.Shared;
 using RCS.Carbon.Tables;
+using RCS.Licensing.Provider;
+using RCS.Licensing.Provider.Shared;
 
 namespace Carbon.Example.Command;
 

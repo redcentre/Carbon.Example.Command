@@ -9,7 +9,6 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <PackageReference Include="RCS.Carbon.Licensing.RedCentre" Version="9.1.23" />
-    <PackageReference Include="RCS.Carbon.Tables" Version="9.1.23" />
+    <PackageReference Include="RCS.Carbon.Tables" Version="9.1.31" />
   </ItemGroup>
 </Project>
