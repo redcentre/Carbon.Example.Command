@@ -5,7 +5,7 @@ using RCS.Carbon.Tables;
 using RCS.Licensing.Provider;
 using RCS.Licensing.Provider.Shared;
 
-namespace Carbon.Example.Command;
+namespace RCS.Carbon.Example.Command;
 
 /// <summary>
 /// For information see the Wiki page.
