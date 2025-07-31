@@ -9,6 +9,6 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <PackageReference Include="RCS.Carbon.Tables" Version="9.1.45" />
+    <PackageReference Include="RCS.Carbon.Tables" Version="9.1.48" />
   </ItemGroup>
 </Project>
